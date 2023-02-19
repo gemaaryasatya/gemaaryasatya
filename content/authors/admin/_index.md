@@ -54,9 +54,8 @@ email: ""
 ---
 <!--StartFragment-->
 
-Gema is a third-year undergraduate student majoring in Electrical Power Engineering at Bandung Institute of Technology (ITB). He is an enthuasiatic and passionate individual looking for an opportunity to gain practical work experience to apply the things he learned from his studies and understand how they are used in a professional environment.\
-\
-He is interested in research, specifically about Renewable Energy Systems, Power Stability, and Public Policy.
+Gema is a third-year undergraduate student majoring in Electrical Power Engineering at Bandung Institute of Technology (ITB). He is an enthuasiatic and passionate individual looking for an opportunity to gain practical work experience to apply the things he learned from his studies and understand how they are used in a professional environment. He is interested in research, specifically about Renewable Energy Systems, Power Stability, and Public Policy.
 
 <!--EndFragment-->
+
 {style="text-align: justify;"}
