@@ -39,13 +39,13 @@ education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
-      year: 2012
+      year: 2022
     - course: MSc in Power Engineering
       institution: Imperial College London
-      year: ""
+      year: 2024
     - course: BSc in Power Engineering
       institution: Bandung Institute of Technology
-      year: ""
+      year: 2020
 superuser: true
 status:
   icon: ☕️
