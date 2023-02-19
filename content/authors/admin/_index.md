@@ -39,9 +39,9 @@ organizations:
     url: https://www.sre.co.id/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Energy Policy
       institution: Stanford University
-      year: 2022
+      year: 2026
     - course: MSc in Power Engineering
       institution: Imperial College London
       year: 2024
