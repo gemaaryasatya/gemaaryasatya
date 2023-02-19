@@ -35,6 +35,8 @@ social:
 organizations:
   - name: Bandung Institute of Technology
     url: https://itb.ac.id/
+  - name: Society of Renewable Energy Indonesia
+    url: https://www.sre.co.id/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -56,7 +58,7 @@ email: ""
 ---
 <!--StartFragment-->
 
-Gema is a third-year undergraduate student majoring in Electrical Power Engineering at Bandung Institute of Technology (ITB). He is an enthuasiatic and passionate individual looking for an opportunity to gain practical work experience to apply the things he learned from his studies and understand how they are used in a professional environment.
+Gema is a third-year undergraduate student majoring in Electrical Power Engineering at Bandung Institute of Technology (ITB). He is an enthuasiatic and passionate individual looking for an opportunity to gain practical work experience to apply the things he learned from his studies and understand how they are used in a professional environment. My research interests include power system, renewable energy, economics, and public policy.
 
 <!--EndFragment-->
 
