@@ -1,7 +1,9 @@
 ---
 title: Gema Wachid Aryasatya
 role: Student of Power Engineering
-bio: My research interests include power system, renewable energy, and public policy
+avatar_filename: 4822d32c-80ed-43f8-a55e-3adbe3886002.jpg
+bio: My research interests include power system, renewable energy, and public
+  policy.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -29,19 +31,19 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Bandung Institute of Technology
+    url: https://itb.ac.id/
 education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Power Engineering
+      institution: Imperial College London
+      year: ""
+    - course: BSc in Power Engineering
+      institution: Bandung Institute of Technology
+      year: ""
 superuser: true
 status:
   icon: ☕️
