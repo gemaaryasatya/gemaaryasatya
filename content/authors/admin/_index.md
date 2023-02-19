@@ -56,6 +56,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Gema is a third-year undergraduate student majoring in Electrical Power Engineering at Bandung Institute of Technology (ITB). My research interests include power system, renewable energy, economics, and public policy.
-
-{style="text-align: justify;"}
+I am a driven and motivated Electrical Power Engineering student with a passion for exploring the intersection of technology, economics, and policy in the energy sector. Through my coursework and research, I have developed a deep understanding of power systems and renewable energy, and I am eager to contribute my skills to solving the complex challenges facing the industry.
