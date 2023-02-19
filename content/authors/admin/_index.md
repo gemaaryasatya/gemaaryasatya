@@ -1,7 +1,7 @@
 ---
 title: Gema Wachid Aryasatya
 role: Student of Power Engineering
-avatar_filename: 4822d32c-80ed-43f8-a55e-3adbe3886002.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include power system, renewable energy, and public
   policy.
 interests:
@@ -52,6 +52,11 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+<!--StartFragment-->
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gema is a third-year undergraduate student majoring in Electrical Power Engineering at Bandung Institute of Technology (ITB). He is an enthuasiatic and passionate individual looking for an opportunity to gain practical work experience to apply the things he learned from his studies and understand how they are used in a professional environment.\
+\
+He is interested in research, specifically about Renewable Energy Systems, Power Stability, and Public Policy.
+
+<!--EndFragment-->
 {style="text-align: justify;"}
