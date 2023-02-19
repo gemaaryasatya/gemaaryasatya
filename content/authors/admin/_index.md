@@ -5,9 +5,9 @@ avatar_filename: 4822d32c-80ed-43f8-a55e-3adbe3886002.jpg
 bio: My research interests include power system, renewable energy, and public
   policy.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Power System
+  - Renewable Energy
+  - Public Policy
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,7 +26,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/gemaaryasatya/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
