@@ -1,9 +1,9 @@
 ---
 title: Gema Wachid Aryasatya
 role: Student of Power Engineering
-avatar_filename: avatar.jpg
-bio: My research interests include power system, renewable energy, and public
-  policy.
+avatar_filename: avatar.png
+bio: My research interests include power system, renewable energy, economics,
+  and public policy.
 interests:
   - Power System
   - Renewable Energy
@@ -23,13 +23,15 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/gemaaryasatya
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/gemaaryasatya/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://itbdsti-my.sharepoint.com/:b:/g/personal/18020008_mahasiswa_itb_ac_id/EWnqmraoT1hJgG3OW-SRt-8B967KJWMikibX268vRD-OcA?e=8pp9fb
+    display:
+      header: true
 organizations:
   - name: Bandung Institute of Technology
     url: https://itb.ac.id/
@@ -54,7 +56,7 @@ email: ""
 ---
 <!--StartFragment-->
 
-Gema is a third-year undergraduate student majoring in Electrical Power Engineering at Bandung Institute of Technology (ITB). He is an enthuasiatic and passionate individual looking for an opportunity to gain practical work experience to apply the things he learned from his studies and understand how they are used in a professional environment. He is interested in research, specifically about Renewable Energy Systems, Power Stability, and Public Policy.
+Gema is a third-year undergraduate student majoring in Electrical Power Engineering at Bandung Institute of Technology (ITB). He is an enthuasiatic and passionate individual looking for an opportunity to gain practical work experience to apply the things he learned from his studies and understand how they are used in a professional environment.
 
 <!--EndFragment-->
 
